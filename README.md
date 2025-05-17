@@ -9,4 +9,4 @@ The notebooks are to be followed in the order given by their prefix number.
 
 If you want to be able to execute the notebooks, please install the packages given by the "requirements.txt" file.
 
-These notebooks were executed with Python 3.12.10
+These notebooks were executed using Python 3.12.10
