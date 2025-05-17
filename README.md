@@ -1,6 +1,8 @@
 # Final Project 2025 - Short Video Recommender System (KuaiRec)
 
-This repository contains my implementation of a recommender system for the KuaiRec dataset. It uses content-based filtering with a neural network in order to try to predict the watch ratio of a given user/video interaction.
+This repository contains my implementation of a recommender system for the KuaiRec dataset.
+
+It uses content-based filtering with a two-tower neural network in order to try to predict the watch ratio of a given user/video interaction.
 
 The entirety of the explanations and interpretations are inside the markdown cells of the notebooks.
 The notebooks are to be followed in the order given by their prefix number.
