@@ -5,4 +5,4 @@ The notebooks are to be followed in the order given by their prefix number.
 
 ## Python environment
 
-If you want to be able to execute the notebooks, please install the packages given by the "reauirements.txt" file.
+If you want to be able to execute the notebooks, please install the packages given by the "requirements.txt" file.
